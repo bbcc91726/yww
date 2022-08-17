@@ -9,5 +9,5 @@ async def on_ready():
 
 
 
-bot.run('MTAwOTMzNjM1OTkyNTg1MDIyMw.GpKmqU.gJEUQuwD-NB5Wgt9OEWui4_1_uKYFjZDpjkYY0')
+bot.run('MTAwOTMzNjM1OTkyNTg1MDIyMw.Gg1JlG.7Ernb_aD0Rd45qqwkI9PkiiS9Hf2DrPvgmmYEk')
 
